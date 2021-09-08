@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.social-container {
+    background: rgb(1, 1, 15);
+    color:azure;
+    padding: 25px 50px;
+    height:400;
+  }
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+  a.youtube {
+    color: #eb3223;
+  }
+  a.whatsapp {
+    color: #0ea816;
+  }
+  a.github {
+    color: #4d066e;
+  }
+  a.linkedin {
+    color: #27168a;
+  }
+  a.facebook {
+    color: #4968ad;
+  }
+  
+  a.twitter {
+    color: #49a1eb;
+  }
+  
+  a.instagram {
+    color:orangered;
+  }

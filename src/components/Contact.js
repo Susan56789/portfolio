@@ -33,7 +33,7 @@ export default function Contact() {
         <div className="lg:w-2/3 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
         <SocialFollow />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
-          <img src={user}  width="100" height="100" alt="Susan Wairimu"/>
+          <img src={user}  width="90" height="90" alt="Susan Wairimu"/>
           </div>
         </div>
         <form

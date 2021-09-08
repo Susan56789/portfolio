@@ -37,7 +37,7 @@ export default function SocialFollow() {
   className="instagram social">
   <FontAwesomeIcon icon={faInstagram} size="2x" />
 </a>
-<a href=""
+<a href="https://wa.me/254796486115"
   className="whatsapp social">
   <FontAwesomeIcon icon={faWhatsapp} size="2x" />
 </a>

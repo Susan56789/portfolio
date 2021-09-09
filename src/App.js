@@ -7,7 +7,14 @@ import Skills from "./components/Skills";
 import Testimonials from "./components/Testimonials";
 import Copyright from 'react-copyright';
 
+
 export default function App() {
+  const mystyle={
+    backgroundcolor: "navyblue",
+    color: "white",
+    align: "centre"
+    }
+
   return (
     <main className="text-gray-400 bg-gray-900 body-font">
       <Navbar />
@@ -16,7 +23,7 @@ export default function App() {
       <Skills />
       <Testimonials />
       <Contact />
-      <Copyright/>
+      <Copyright  style={mystyle}/>
     </main>
   );
 }

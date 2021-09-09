@@ -9,11 +9,6 @@ import Copyright from 'react-copyright';
 
 
 export default function App() {
-  const mystyle={
-    backgroundcolor: "navyblue",
-    color: "white",
-    align: "centre"
-    }
 
   return (
     <main className="text-gray-400 bg-gray-900 body-font">
@@ -23,7 +18,7 @@ export default function App() {
       <Skills />
       <Testimonials />
       <Contact />
-      <Copyright  style={mystyle}/>
+      <Copyright />
     </main>
   );
 }

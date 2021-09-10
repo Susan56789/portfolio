@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
     "@heroicons/react": "^1.0.1",
     "fill-range": "^7.0.1",
     "react": "^17.0.2",

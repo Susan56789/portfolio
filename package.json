@@ -31,5 +31,17 @@
   },
   "optionalDependencies": {
     "fsevents": "^2.3.2"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "craco.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Susan56789/portfolio.git"
+  },
+  "author": "susan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Susan56789/portfolio/issues"
+  },
+  "homepage": "https://github.com/Susan56789/portfolio#readme"
 }

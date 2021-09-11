@@ -17,9 +17,9 @@ export default function Navbar() {
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
-          <a href="https://knowexx.wordpress.com/" target="_blank" rel="noopener noreferrer" className="mr-5 hover:text-white">
+          {/*<a href="https://knowexx.wordpress.com/" target="_blank" rel="noopener noreferrer" className="mr-5 hover:text-white">
             Blog
-          </a>
+  </a>*/}
           {/*<a href="#testimonials" className="mr-5 hover:text-white">
             Testimonials
   </a>*/}

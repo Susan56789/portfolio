@@ -2,11 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  font-weight: unset;
+}
+
 .social-container {
-    
+  display: flex;
     color:azure;
-    padding: 25px 50px;
-    height:400;
+    width:auto;
+    height:50px;
+    bottom: 0;
+    clear:both;
+    float:left;
   }
   a.social {
     margin: 0 1rem;
@@ -36,11 +48,15 @@
   a.instagram {
     color:orangered;
   }
-  footer{
-    background: rgb(13, 16, 63);
-    color: oldlace;
-    width:100%;
-    clear:both;
-    bottom: 0;
+  .footer{
+    display: flex;
+    background-color: rgb(42, 43, 48);
+    border-top: 1px solid grey;
+    text-align: center;
+    padding: 20px;
     left: 0;
+    bottom: 0;
+    height: 200px;
+    width: 100%;
+    color: rgb(235, 242, 243);
   }

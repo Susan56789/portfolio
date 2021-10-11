@@ -13,7 +13,6 @@ import {
 export default function SocialFollow() {
   return (
     <div class="social-container">
-      <h3>Follow me on Social Media</h3>
       <a href="https://www.linkedin.com/in/susan-macharia-902704174/" target="_blank" rel="noopener noreferrer"
   className="linkedin social">
   <FontAwesomeIcon icon={faLinkedin} size="2x" />
@@ -30,7 +29,7 @@ export default function SocialFollow() {
   className="facebook social">
   <FontAwesomeIcon icon={faFacebook} size="2x" />
 </a>
-<a href="https://twitter.com/Sue_Nimoh" target="_blank" rel="noopener noreferrer" className="twitter social">
+<a href="https://twitter.com/nimoh_sue" target="_blank" rel="noopener noreferrer" className="twitter social">
   <FontAwesomeIcon icon={faTwitter} size="2x" />
 </a>
 <a href="https://www.instagram.com/w.a.i.r.i.m.u.__/" target="_blank" rel="noopener noreferrer"

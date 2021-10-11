@@ -8,7 +8,7 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Susan.
             <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
+            web applications.
           </h1>
           <p className="mb-8 leading-relaxed">
             Recent bachelor's degree recepient with a background in web design and development. Meticulous web developer with a passion

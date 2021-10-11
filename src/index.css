@@ -22,10 +22,8 @@ body{
 .social-container {
   display: flex;
     color:azure;
-    width:30%;
     height:50px;
     bottom: 0;
-    clear:both;
     float:left;
   }
   a.social {

@@ -13,7 +13,7 @@ export default function Contact() {
           </div>
        <img src={user} alt="Susan Wairimu" style={{width:"70px",height:"70px"} }/>
        
-        <footer>
+       <footer>
         <SocialFollow />
         </footer>
            </div>

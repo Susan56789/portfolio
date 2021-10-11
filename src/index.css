@@ -20,13 +20,17 @@ body{
 }
 
 .social-container {
-  display: flex;
+  display: inline-block;
     color:azure;
     height:50px;
     bottom: 0;
     float:left;
     width: 100%;
   }
+  img{
+    position: relative;
+  }
+  
   a.social {
     margin: 0 1rem;
     transition: transform 250ms;
@@ -64,12 +68,17 @@ body{
     border-top: 1px solid grey;
     text-align: center;
     padding: 20px;
-    height: 200px;
+    height: 250px;
     width: 100%;
     color: rgb(235, 242, 243);
     clear:both;
   }
-
+  footer{
+    display: inline-block;
+    bottom:0;
+    left:0;
+  }
+  
   /* Media Queries: Tablet Landscape */
 @media screen and (max-width: 1060px) {
   #primary { width:67%; }

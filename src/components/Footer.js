@@ -2,7 +2,7 @@ import React from 'react';
 import '../index.css';
 import {Container,Row,Col} from 'reactstrap';
 import Contact from './Contact';
-import user from "../images/user.jpg";
+
 
 function Footer(){
 return(
@@ -12,14 +12,6 @@ return(
       <Col>
       <Contact />
       </Col>  
-    </Row>
-</Container>
-<Container>
-    <Row>
-        <Col>
-        <img src={user}  width="90" height="90" alt="Susan Wairimu"/>
-        <a href="mailto:susanwairimu177@gmail.com">Email</a>
-        </Col>
     </Row>
 </Container>
 </footer>

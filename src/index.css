@@ -25,6 +25,7 @@ body{
     height:50px;
     bottom: 0;
     float:left;
+    width: 100%;
   }
   a.social {
     margin: 0 1rem;
@@ -60,7 +61,6 @@ body{
     right:0;
     display: flex;
     position: relative;
-    background-color: rgb(42, 43, 48);
     border-top: 1px solid grey;
     text-align: center;
     padding: 20px;

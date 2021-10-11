@@ -1,7 +1,7 @@
 import React from "react";
 import SocialFollow from "./socialFollow";
 import '../index.css';
-
+import user from '../images/user.jpg';
 export default function Contact() {
  
  
@@ -11,7 +11,7 @@ export default function Contact() {
         <div className="lg:w-2/3 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
         <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
           </div>
-       
+       <img src={user} alt="Susan Wairimu" style={{width:"70px",height:"70px"} }/>
        
         <footer>
         <SocialFollow />

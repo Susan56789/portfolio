@@ -18,12 +18,7 @@ return(
     <Row>
         <Col>
         <img src={user}  width="90" height="90" alt="Susan Wairimu"/>
-        <p>
-            Tel: +254796486115
-        </p>
-        <p>
-            Email: susanwairimu177@gmail.com
-        </p>
+        <a href="mailto:susanwairimu177@gmail.com">Email</a>
         </Col>
     </Row>
 </Container>

@@ -15,7 +15,22 @@ export const projects = [
     image: "./hospital.gif",
     link: "https://hossanamiritinimedical.vercel.app/",
   },
- 
+  {
+    title: "Sustainable Africa Innovators Training",
+    subtitle: "E=learning platform",
+    description:
+      "",
+    image: "./sus-afri training.gif",
+    link: "http://elearning.sus-afric.org/",
+  },
+  {
+    title: "Facbook",
+    subtitle: "Facebook Clone",
+    description:
+      "",
+    image: "./facebook.gif",
+    link: "",
+  },
 ];
 
 export const testimonials = [
@@ -42,4 +57,5 @@ export const skills = [
   "CSS",
   "SEO",
   "Git",
+  "Wordpress",
 ];

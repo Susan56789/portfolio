@@ -1,23 +1,8 @@
 export const projects = [
-  {
-    title: "Mairen",
-    subtitle: "online Store",
-    description:
-      "",
-    image: "./app-online-store.gif",
-    link: "https://mairen.vercel.app/",
-  },
-  {
-    title: "Hossana Miritini Medical Centre",
-    subtitle: "Hospital",
-    description:
-      "",
-    image: "./hospital.gif",
-    link: "https://hossanamiritinimedical.vercel.app/",
-  },
+  
   {
     title: "Sustainable Africa Innovators Training",
-    subtitle: "E=learning platform",
+    subtitle: "E-learning platform",
     description:
       "",
     image: "./sus-afri training.gif",
@@ -53,9 +38,9 @@ export const testimonials = [
 export const skills = [
   "JavaScript",
   "React",
-  "HTML",
+  "HTML5",
   "CSS",
   "SEO",
-  "Git",
+  "Github",
   "Wordpress",
 ];

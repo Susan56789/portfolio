@@ -14,7 +14,7 @@ export const projects = [
     description:
       "",
     image: "./facebook.gif",
-    link: "",
+    link: "https://facebook-clone-jade-beta.vercel.app/",
   },
 ];
 

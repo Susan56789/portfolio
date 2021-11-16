@@ -1,12 +1,12 @@
 export const projects = [
   
   {
-    title: "Sustainable Africa Innovators Training",
-    subtitle: "E-learning platform",
+    title: "Store",
+    subtitle: "E-commerce store",
     description:
       "",
-    image: "./sus-afri training.gif",
-    link: "http://elearning.sus-afric.org/",
+    image: "./app-online-store.gif",
+    link: "https://ecommerce-shop-gamma.vercel.app/",
   },
   {
     title: "Facbook",

@@ -1,4 +1,5 @@
 import React from "react";
+import '../index.css';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
     faYoutube,
@@ -9,6 +10,8 @@ import {
     faGithub,
     faWhatsapp
   } from "@fortawesome/free-brands-svg-icons";
+
+
 
 export default function SocialFollow() {
   return (

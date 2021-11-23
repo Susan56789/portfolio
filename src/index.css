@@ -11,7 +11,7 @@
   font-weight: unset;
 }
 body{
-  width:100%;
+  max-width: 1200;
   height:100%;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -26,6 +26,7 @@ body{
     bottom: 0;
     float:left;
     width: 100%;
+    justify-content: space-between;
   }
   img{
     position: relative;

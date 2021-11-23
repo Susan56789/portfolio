@@ -22,11 +22,10 @@ body{
 .social-container {
   display: inline-block;
     color:azure;
-    height:50px;
-    bottom: 0;
-    float:left;
+    height:40px;
     width: 100%;
     justify-content: space-between;
+    margin-bottom: 40px;
   }
   img{
     position: relative;

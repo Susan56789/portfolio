@@ -23,9 +23,7 @@ export default function Navbar() {
           <a href="https://www.buymeacoffee.com/SueNeemoh" target='_blank' rel="noopener noreferrer" className="mr-5 hover:text-white">
             Support
           </a>
-          {/*<a href="#testimonials" className="mr-5 hover:text-white">
-            Testimonials
-  </a>*/}
+          
 
         </nav>
         <a

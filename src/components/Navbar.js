@@ -20,11 +20,8 @@ export default function Navbar() {
           <a href="https://knowexx.wordpress.com/blog/" target='_blank' rel="noopener noreferrer" className="mr-5 hover:text-white">
             Blog
           </a>
-          <a href="https://www.buymeacoffee.com/SueNeemoh" target='_blank' rel="noopener noreferrer" className="mr-5 hover:text-white">
-            Support
-          </a>
           
-
+          
         </nav>
         <a
           href="#contact"

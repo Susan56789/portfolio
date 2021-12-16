@@ -59,6 +59,9 @@ body{
   a.instagram {
     color:orangered;
   }
+  a.tiktok{
+    color: white;
+  }
 
   .row-no-gutters{
     display: flex;

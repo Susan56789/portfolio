@@ -8,7 +8,8 @@ import {
     faInstagram,
     faLinkedin,
     faGithub,
-    faWhatsapp
+    faWhatsapp,
+    faTiktok
   } from "@fortawesome/free-brands-svg-icons";
 
 
@@ -24,7 +25,7 @@ export default function SocialFollow() {
   className="github social">
   <FontAwesomeIcon icon={faGithub} size="2x" />
 </a>
-      <a href="" target="_blank" rel="noopener noreferrer"
+      <a href="https://www.youtube.com/channel/UC5jjHotQY0YH5UbEXmCH7aQ" target="_blank" rel="noopener noreferrer"
   className="youtube social">
   <FontAwesomeIcon icon={faYoutube} size="2x" />
 </a>
@@ -42,6 +43,10 @@ export default function SocialFollow() {
 <a href="https://wa.me/254796486115" target="_blank" rel="noopener noreferrer"
   className="whatsapp social">
   <FontAwesomeIcon icon={faWhatsapp} size="2x" />
+</a>
+<a href="https://www.tiktok.com/@sue_nimoh" target="_blank" rel="noopener noreferrer"
+  className="tiktok social">
+  <FontAwesomeIcon icon={faTiktok} size="2x" />
 </a>
 </div>
   );
